@@ -98,3 +98,7 @@ export PATH = “ ” 清空终端环境变量
 <div style="text-align: center">
 <img src="process_base03.png"/>
 </div>
+
+<div style="text-align: center">
+<img src="process_base04.png"/>
+</div>
